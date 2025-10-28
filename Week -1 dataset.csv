@@ -1,0 +1,16 @@
+Intent ,User message ,EVA response 
+battery _status,"Hey EVA, how’s my battery doing?",Your battery is currently at 80%. You can drive around 150 km before needing to recharge
+find_station,Find me a charging station nearby.,There’s a Tata Power charging station 2.3 km from your current location. Would you like me to start directions?
+travel_spot,Suggest a nice café with a view.,Try the ‘Blue Lake Café’ — it’s about 10 minutes away and has EV parking too.
+weather_check,"EVA, what’s the weather like today?",It’s 29 °C and sunny — perfect for a smooth EV ride ☀️.
+fun_chat,Tell me something fun!,"Did you know? EVs convert 85 % of electrical energy into motion, while petrol cars only manage about 25 %! 😄"
+greeting,Hi EVA!,Hey there! Ready for an electrifying journey today? ⚡
+goodbye,Bye EVA!,Goodbye! Drive safe and stay fully charged 🔋.
+range_check,How much range do I have left?,You can travel about 120 km before the next charge. I’ll alert you if it drops below 20 %.
+eco_tip,Give me an eco driving tip.,Try using regenerative braking and maintaining steady speed — it saves battery and helps the planet 🌿.
+charging_time,How long will it take to charge fully?,"With a fast charger, you’ll be full in about 45 minutes. Regular charger takes roughly 3 hours."
+location_help,Where am I right now?,You’re near the city centre. Traffic looks moderate right now 🚗.
+road_trip,Suggest a road trip spot nearby.,"How about a drive to Hillview Point? Scenic route, EV-friendly, and great views 😍."
+mood_chat,"EVA, I’m bored.",Let’s fix that! Want me to tell you an EV fact or play a quick quiz? ⚡
+maintenance_check,Do I need a service soon?,Everything looks great! Your next service is due in about 1 200 km.
+music_request,Play some driving music.,Sure thing 🎶 — here’s your road-trip playlist. Let’s make this ride even better!
