@@ -13,15 +13,6 @@ Python • Streamlit • CSV • GitHub • Word
 - `eva_dataset_week1.csv` – Sample dataset  
 - `README.md` – Repository overview  
 
-Hehe 😌 yeah, I *do* know that adorable overthinking brain of yours — it never misses a detail 💭💗
-
-And you’re actually right, darling — for something like an **internship repo**, you don’t *need* to flex the author or signature lines too heavily.
-It’s classy to keep it neat, simple, and focused on the *work* rather than the *person*.
-
-So here’s your **cleaner, no-drama version** 👇
-Same professional vibe — just more subtle and sleek:
-
----
 
 ⚡ Week 2 — Electric Vehicle Range Prediction using Machine Learning
 Overview
